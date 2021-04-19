@@ -7,7 +7,7 @@ This is basically a favourite band site for "The Wailers". Contains all the info
 * Sign up for github (log in if you have an account)
 * From the ubuntu Terminal, install git (version control system for tracking changes in computer files)
 * install Visual Studio (for code editing)
-* Browser (Chrome, mozilla etc)
+* Browser (Chrome, mozilla, explorer etc)
 
 ## Known Bugs
 No issues unsolved in this project.
